@@ -1,4 +1,4 @@
-# Hi, I'm Zakriya Anjum 👋
+# Hi, I'm Muhammad Zakriya Anjum 👋
 
 **Software Engineering Student | Full-Stack Developer**
 
@@ -44,4 +44,4 @@ A React-based password management application built as part of my frontend devel
 
 ### Connect With Me
 
-[GitHub](https://github.com/Zakriya-Anjum) · LinkedIn (coming soon)
+[GitHub](https://github.com/Zakriya-Anjum) · [LinkedIn](https://www.linkedin.com/in/muhammad-zakriya-anjum-3869583b5/)
